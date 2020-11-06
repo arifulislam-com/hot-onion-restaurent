@@ -1,0 +1,13 @@
+.selectedItem{
+    display: flex;
+}
+.itemImg img{
+    width: 100px;
+    border-radius: 15px;
+    margin: 20px;
+    margin-top: 30px;
+}
+.itemDettails{
+    margin: 0;
+    padding: 0;
+}

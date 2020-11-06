@@ -1,0 +1,10 @@
+.cart{
+    display: flex;
+    margin: 50px 200px;
+}
+.delivaryDetails{
+    margin-right: 200px;
+}
+.SIC{
+    margin-left: 200px;
+}

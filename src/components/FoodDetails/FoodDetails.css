@@ -1,0 +1,28 @@
+.FoodDetails{
+    width: 100%;
+    display: flex;
+    margin-top: 100px;
+}
+.containt{
+    margin: 20px 100px;
+    width: 50%;
+}
+.containt h1{
+    font-size: 50px;
+}
+.containt button{
+    color: white;
+    width: 150px;
+    height: 40px;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.img{
+    margin: 20px 100px;
+    width: 70%;
+}
+.img img{
+    width: 70%;
+    border-radius: 20%;
+}

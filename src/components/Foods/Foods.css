@@ -1,0 +1,25 @@
+.foods{
+}
+.food-nav{
+    text-align: center;
+}
+.food-nav button{
+    margin-right: 50px;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+.FoodItem-component{
+    display: flex;
+    flex-wrap: wrap;
+}
+.checkoutFood{
+    text-align: center;
+}
+.checkoutFoodBtn{
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+}

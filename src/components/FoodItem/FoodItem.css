@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+}
+.FoodItem{
+    margin: 50px;
+    width: 25%;
+}
+.container img{
+    width: 70%;
+}
+.FoodItem:hover{
+    box-shadow: 5px 5px 15px 3px lightgray;
+}
